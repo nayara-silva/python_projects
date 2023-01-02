@@ -10,4 +10,6 @@ Projects created during **100 Days of Python course**
 *operations and f-string*
 3. [Treasure Island](https://github.com/nayara-silva/python_projects/blob/main/3.treasure_island.py)
 *conditionals and logical operators*
+4. [Rock, Paper and Scissors](https://github.com/nayara-silva/python_projects/blob/main/4.rock_paper_scissors.py)
+*randomization and lists*
 
