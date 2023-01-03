@@ -12,4 +12,6 @@ Projects created during **100 Days of Python course**
 *conditionals and logical operators*
 4. [Rock, Paper and Scissors](https://github.com/nayara-silva/python_projects/blob/main/4.rock_paper_scissors.py)
 *randomization and lists*
+5. [Password Generator](https://github.com/nayara-silva/python_projects/blob/main/5.password_generator.py)
+*loops
 
