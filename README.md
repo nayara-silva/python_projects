@@ -13,5 +13,7 @@ Projects created during **100 Days of Python course**
 4. [Rock, Paper and Scissors](https://github.com/nayara-silva/python_projects/blob/main/4.rock_paper_scissors.py)
 *randomization and lists*
 5. [Password Generator](https://github.com/nayara-silva/python_projects/blob/main/5.password_generator.py)
-*loops* 
+*for loops* 
+6. [Escaping de Maze](https://github.com/nayara-silva/python_projects/blob/main/6.escaping_the_maze.py)
+*functions and while loops*
 
