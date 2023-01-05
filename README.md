@@ -16,4 +16,4 @@ Projects created during **100 Days of Python course**
 *for loops* 
 6. [Escaping de Maze](https://github.com/nayara-silva/python_projects/blob/main/6.escaping_the_maze.py)
 *functions and while loops*
-
+7. [Hagman](https://github.com/nayara-silva/python_projects/tree/main/7.hangman)
