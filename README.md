@@ -19,3 +19,5 @@ Projects created during **100 Days of Python course**
 7. [Hangman](https://github.com/nayara-silva/python_projects/tree/main/7.hangman)
 8. [Ceaser Cypher](https://github.com/nayara-silva/python_projects/blob/main/8.ceaser_cypher.py)
 *functions with inputs*
+9. [Secret Action](https://github.com/nayara-silva/python_projects/tree/main/9.secret_auction)
+*dictionaries and nesting*
